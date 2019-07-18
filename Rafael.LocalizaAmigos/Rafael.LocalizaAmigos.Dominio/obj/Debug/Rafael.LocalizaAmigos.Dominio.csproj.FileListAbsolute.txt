@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\bin\Debug\Rafael.LocalizaAmigos.Dominio.dll
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\bin\Debug\Rafael.LocalizaAmigos.Dominio.pdb
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\obj\Debug\Rafael.LocalizaAmigos.Dominio.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\obj\Debug\Rafael.LocalizaAmigos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\obj\Debug\Rafael.LocalizaAmigos.Dominio.dll
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\obj\Debug\Rafael.LocalizaAmigos.Dominio.pdb
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\bin\Debug\Rafael.LocalizaAmigos.Dominio.dll
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\bin\Debug\Rafael.LocalizaAmigos.Dominio.pdb
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\obj\Debug\Rafael.LocalizaAmigos.Dominio.csprojAssemblyReference.cache
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\obj\Debug\Rafael.LocalizaAmigos.Dominio.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\obj\Debug\Rafael.LocalizaAmigos.Dominio.dll
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.LocalizaAmigos.Dominio\obj\Debug\Rafael.LocalizaAmigos.Dominio.pdb
