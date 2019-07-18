@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>AppAngular</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="../assets/Content/bootstrap.css" rel="stylesheet"/>
+  <link href="../assets/Content/site.css" rel="stylesheet"/>
+
+    <script src="../assets/Scripts/modernizr-2.8.3.js"></script>
+  <link rel="stylesheet" href="styles.3ff695c00d717f2d2a11.css"></head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>                
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><p style="color:aliceblue;">Usuário</p> <input type="text" id="txbUSER" value="amigo" class="form-control" /></li>
+                    <li>&nbsp;&nbsp;</li>
+                    <li><p style="color:aliceblue;">Senha</p> <input type="text" id="txbPASS" value="amigo" class="form-control" /></li>
+                    <li>&nbsp;&nbsp;</li>
+                    <li><input type="hidden" id="hddToken" />
+                      <p style="color:aliceblue;">&nbsp;</p>
+                      <button class="btn btn-primary" onclick="CarregaAmigo()">Gerar Token</button></li>
+                    <li>&nbsp;&nbsp;</li>
+                    <li>
+                        <p style="color:aliceblue;">&nbsp;</p>
+                      <label id="lblTOKEN" style="color:whitesmoke;">aguardando usuário e senha</label></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        <app-root></app-root>
+        <hr />
+        <footer>
+            <p>&copy; <label id="lblANO"></label> - Consumindo API com Angular</p>
+        </footer>
+    </div>
+   
+    <script src="../assets/Scripts/jquery-3.3.1.js"></script>
+    <script src="../assets/Scripts/bootstrap.js"></script>
+    <script src="../assets/Scripts/Site.js"></script>
+    <script>
+      $(document).ready(function(){
+        var dt = new Date();
+        $("#lblANO").text(dt.getFullYear());
+      });
+    </script>
+
+<script src="runtime-es2015.858f8dd898b75fe86926.js" type="module"></script><script src="polyfills-es2015.27661dfa98f6332c27dc.js" type="module"></script><script src="runtime-es5.741402d1d47331ce975c.js" nomodule></script><script src="polyfills-es5.7f43b971448d2fb49202.js" nomodule></script><script src="main-es2015.4eef5fc709d3c2b5a60e.js" type="module"></script><script src="main-es5.de11527fc581c2959843.js" nomodule></script></body>
+
+</html>
