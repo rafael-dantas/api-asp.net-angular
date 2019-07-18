@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\bin\Debug\Rafael.AcessoDados.Comum.dll
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\bin\Debug\Rafael.AcessoDados.Comum.pdb
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\obj\Debug\Rafael.AcessoDados.Comum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\obj\Debug\Rafael.AcessoDados.Comum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\obj\Debug\Rafael.AcessoDados.Comum.dll
+C:\Users\User\source\repos\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\obj\Debug\Rafael.AcessoDados.Comum.pdb
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\bin\Debug\Rafael.AcessoDados.Comum.dll
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\bin\Debug\Rafael.AcessoDados.Comum.pdb
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\obj\Debug\Rafael.AcessoDados.Comum.csprojAssemblyReference.cache
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\obj\Debug\Rafael.AcessoDados.Comum.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\obj\Debug\Rafael.AcessoDados.Comum.dll
+C:\TreinaWeb\Rafael.LocalizaAmigos\Rafael.AcessoDados.Comum\obj\Debug\Rafael.AcessoDados.Comum.pdb
